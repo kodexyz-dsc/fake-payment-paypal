@@ -13,7 +13,7 @@
 **Paypal Fake Payment Page**
 *Hello guys voilà la fausse page de paiement paypal, a vous de modifier a votre sauce*
 
-(pour ceux qui savent pas comment faire allez ligne 40 et changez le montant,la devise et le receveur)
+(pour ceux qui savent pas comment faire allez ligne 108 et changez le montant,la devise et le receveur)
 et oui j'l'ai fais a la zeub un peu donc c'est pas 100% ressemblant mais ça suffira
 
 **DISCLAIMER**
